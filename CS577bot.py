@@ -130,7 +130,7 @@ def sendText(phoneNum, message):
 	frm = 'CS577finalproject@gmail.com'
 	# login info for gmail smtp
 	username = 'CS577finalproject'
-	password = 'Password!123'
+	password = '*redacted*'
 	# gmail smtp connect
 	server = smtplib.SMTP('smtp.gmail.com:587')
 	server.starttls()
